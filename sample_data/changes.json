@@ -1,0 +1,9 @@
+[
+  { "number": "CHG0000101", "type": "normal", "ciCriticality": 1, "impactedServices": 4,
+    "inBusinessHours": true, "failedChangesLast90d": 1, "backoutPlanTested": false, "implementationMinutes": 300 },
+  { "number": "CHG0000102", "type": "normal", "ciCriticality": 3, "impactedServices": 1,
+    "inBusinessHours": false, "failedChangesLast90d": 0, "backoutPlanTested": true, "implementationMinutes": 60 },
+  { "number": "CHG0000103", "type": "standard", "ciCriticality": 2 },
+  { "number": "CHG0000104", "type": "emergency", "ciCriticality": 2, "impactedServices": 2,
+    "inBusinessHours": true, "failedChangesLast90d": 0, "backoutPlanTested": true, "implementationMinutes": 45 }
+]
